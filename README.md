@@ -1,3 +1,3 @@
 # Homebrew Rules
 
-* [Monk as a presteige class](monk-presteige-class.md)
+* [Monk as a prestige class](monk-prestige-class.md)
