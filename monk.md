@@ -7,7 +7,9 @@ This take on the monk is my attempt to remove the Kung-fu movie influences and p
 
 
 <div class='classTable wide'>
+
 ##### The Monk
+
 | Level | Proficiency bonus | Features | Unarmed attacks per round | Unarmed strike damage | Ki points
 |:---:|:--:|:---|:---:|:--:|:--:
 | 1st | +2 | Monastic Vows, Martial Arts, Meditation, Unarmed Defense | 2 | d4 | -
